@@ -18,7 +18,7 @@ Sou o Guilherme, de Lins, Brasil.
 - 💻 Trabalho como **Auxiliar de Suporte de TI** na Unimed Lins, desenvolvendo relatórios em PL/SQL para dados de autorização
 - 🎓 Cursando **Engenharia de Software** na Unilins
 - 📊 Foco em **Análise e Engenharia de Dados** — SQL, PL/SQL e Python
-- ✅ Certificado em Machine Learning com Python (USP)
+
 
 ### 🛠️ Linguagens e ferramentas
 
@@ -27,5 +27,4 @@ Sou o Guilherme, de Lins, Brasil.
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
